@@ -1,0 +1,21 @@
+{
+  "name": "horror-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "enquirer": "^2.4.1",
+    "express": "^4.19.2",
+    "jshint": "^2.13.6",
+    "mysql2": "^3.9.3",
+    "uuid": "^9.0.1"
+  }
+}
